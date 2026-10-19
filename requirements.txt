@@ -1,0 +1,11 @@
+pymupdf
+numpy
+pandas
+jinja2
+faiss-cpu
+torch
+sentence-transformers
+langchain-text-splitters
+langchain-google-genai
+python-dotenv
+ipykernel
